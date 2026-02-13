@@ -1,24 +1,38 @@
 [
   {
-    "id": "brain_leakage",
-    "name": "Brain Leakage",
-    "description": "Супер пупер мега комьюнити",
-    "categories": [
-      "creation",
-      "global"
-    ],
-    "tags": [
-      "creative_projects",
-      "development"
-    ],
+    "id": "artcraft",
+    "name": "ArtCraft Community",
+    "description": "Крупнейшее анимационное комьюнити.",
+    "categories": ["creation"],
+    "tags": ["animation", "drawing", "modeling", "guides"],
     "platforms": {
-      "telegram": {
-        "url": "https://t.me/brainlkge",
-        "members": 1
+      "discord": {
+        "url": "https://discord.gg/uGK4qevkyC",
+        "members": 1100
       }
     },
     "rating": 0,
     "commercial": false,
-    "created_at": "2025-12-29"
+    "created_at": "2022-04-02"
+  },
+  {
+    "id": "example",
+    "name": "Example",
+    "description": "Кdfdf",
+    "categories": ["other"],
+    "tags": ["building"],
+    "platforms": {
+      "telegram": {
+        "url": "https://t.me/123",
+        "members": 0
+      },
+      "discord": {
+        "url": "https://discord.gg/abc123",
+        "members": 980
+      }
+    },
+    "rating": 0,
+    "commercial": false,
+    "created_at": "2024-04-02"
   }
 ]

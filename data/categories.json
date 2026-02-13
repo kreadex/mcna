@@ -1,0 +1,58 @@
+[
+    {
+        "id": "global",
+        "name": "Общие",
+        "description": "",
+        "icon": "",
+        "order": 1
+    },
+    {
+        "id": "creation",
+        "name": "Творчество",
+        "description": "",
+        "icon": "",
+        "order": 2
+    },
+    {
+        "id": "technical",
+        "name": "Технические / разработка",
+        "description": "",
+        "icon": "",
+        "order": 3
+    },
+    {
+        "id": "servers",
+        "name": "Серверные",
+        "description": "",
+        "icon": "",
+        "order": 4
+    },
+    {
+        "id": "media",
+        "name": "Контент / Медиа",
+        "description": "",
+        "icon": "",
+        "order": 5
+    },
+    {
+        "id": "education",
+        "name": "Помощь / Обучение",
+        "description": "",
+        "icon": "",
+        "order": 6
+    },
+    {
+        "id": "commercial",
+        "name": "Коммерция / Студии",
+        "description": "",
+        "icon": "",
+        "order": 7
+    },
+    {
+        "id": "other",
+        "name": "Другое",
+        "description": "",
+        "icon": "",
+        "order": 8
+    }
+]
