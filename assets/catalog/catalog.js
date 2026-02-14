@@ -3,9 +3,9 @@
 // ============================
 async function loadData() {
     const [categoriesRes, tagsRes, communitiesRes] = await Promise.all([
-        fetch("/data/categories.json"),
-        fetch("/data/tags.json"),
-        fetch("/data/communities.json")
+        fetch("./data/categories.json"),
+        fetch("./data/tags.json"),
+        fetch("./data/communities.json")
     ]);
 
     const categories = await categoriesRes.json();
